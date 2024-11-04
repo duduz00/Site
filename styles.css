@@ -1,9 +1,10 @@
-body {  
+body {
     color: white;
     background: black;
     margin: 0px;
-    font-family: "chakra petch", sans-serif;
+    font-family: "Chakra Petch", sans-serif;
 }
+
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
